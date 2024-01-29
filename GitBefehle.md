@@ -1,6 +1,9 @@
 ## Lerjournal auf git pushen
-- git add .
-
-- git commit -m "Info der Arbeit"
-
-- git push
+Wichtige Git Befehle:
+git add *
+git commit -m “”
+git push
+git pull
+git status
+git update
+git clone

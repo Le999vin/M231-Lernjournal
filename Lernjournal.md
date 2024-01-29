@@ -1,32 +1,52 @@
 ## Arbeitsjournal – 17.11.2023
-# https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/04_Ablagesysteme
-Zusammenfassung des Links:
 
-Der Text illustriert die Bedeutung der Trennung von Applikationen und Daten in der Informatik anhand eines absurden Beispiels. Die Analogie zwischen dem Öffnen eines Wasserhahns und dem Funktionieren eines Supermarktrolltors verdeutlicht, warum unnötige Abhängigkeiten vermieden werden sollten. Die Analyse von Interessen, Abhängigkeiten und Intuitivität unterstreicht die Problematik solcher Verknüpfungen.
+# Was habe ich heute gelernt?
+Unterschied zwischen Datenschutz und Datensicherheit:
+Datenschutz zielt darauf ab, die Privatsphäre von Individuen zu wahren, indem sichergestellt wird, dass deren persönliche Daten nicht unerlaubt abgerufen werden. Auf der anderen Seite fokussiert sich Datensicherheit darauf, sicherzustellen, dass Daten vor unbefugtem Zugriff geschützt sind.
 
-In der Informatik gilt der Grundsatz "low coupling, high cohesion," der besagt, dass Module nur so viele Abhängigkeiten haben sollten, wie unbedingt notwendig. Das Ziel ist, selbstständige und klar definierte Komponenten zu entwerfen, um unerwünschte Auswirkungen von Änderungen zu vermeiden.
-
-Die Trennung von Applikationen und Daten wird als Beispiel für diesen Grundsatz genannt, insbesondere durch die Speicherung von Dokumenten unter C:\Users\meinname\Documents und Programmen unter C:\Program Files\. Dadurch sollen Ziele wie geringe Kopplung, gute Wartbarkeit, und bessere Übersichtlichkeit erreicht werden.
-
-Der Text schließt mit Übungen und Zielen ab, die den Umgang mit Daten und Ablagekonzepten in der Praxis fördern. Dabei wird zwischen allgemeinen und personenbezogenen Daten unterschieden, und es werden verschiedene Kompetenzstufen für die Umsetzung des Grundsatzes der Daten- und Applikationstrennung definiert. Auch der Unterschied zwischen lokaler und cloudbasierter Ablage sowie deren Einrichtung und Vergleich werden angesprochen.
-
-## Arbeitsjournal – 17.11.2023
-
-## Arbeitsjournal - 15.12.2023
-
-# 16:05 Backup
-https://gitlab.com/ch-tbz-it/Stud/m231/-/blob/master/05_Backup/05_Sicheres%20Cloud-Backup.md
-Schauen Sie sich die oben aufgeführten Tools an. Kennen Sie noch andere Tools?
-Wählen Sie ein Tool aus, dass ihren Anforderungen entspricht. Mögliche Anforderungen: Es unterstützt mein Cloudspeicher (z.B. Google Drive)
-Suchen Sie auf der Webseite einer Bedienungsanleitung: Wie richten Sie das gewählte Backup-Tool auf Ihrem PC ein?
-Setzen Sie sich ein Ziel (z.B. "Den Ordner TBZ auf meinem Laptop in meinem privaten Google Drive Account Sichern") und notieren Sie es sich in Ihrem Portfolio.
-Machen Sie sich einen Plan: Wie gehen Sie vor?
-
-# Arbeitsjournal 22.12.2023
+# Erfolge/Misserfolge:
+Am heutigen Tag erfolgte der Einstieg in das neue Modul 231. Ich stiess auf diverse Herausforderungen, da mir noch nicht klar war, wie man Gitlab nutzt und Daten über die Befehlszeile (CMD) hochlädt. Dennoch gelang es mir, meinen Gitlab-Account einzurichten und die relevanten neuen Befehle in Git zu erlernen.
 
 
-# Arbeitsjournal 12.01.2024
+    
 
+## Arbeitsjournal – 24.11.2023
+
+# Was habe ich heute gelernt?
+An diesem Freitag schauten wir uns Gitlab an und wie man Datein in Gitlab überträgt. Dabei schauten wir uns auch Branchis in Git an. 
+
+# Erfolge/Misserfolge:
+Heute habe ich gute Fortschritte gemacht, indem ich mich auf die Erledigung der Aufgaben der Hausaufgaben 2a konzentriert habe. Dabei habe ich gelernt, wie man Daten im CMD zu GitLab überträgt, was Branches sind und wie man Bilder sowie Verlinkungen in GitLab erstellt.
+
+
+
+
+## Arbeitsjournal - 08.12.2023
+
+# Was habe ich heute gelernt:
+Heute erhielt ich einen Einblick in das Datenschutzgesetz und die darin enthaltenen Regelungen.
+
+# Erfolge/Misserfolge:
+Der heutige Nachmittag verging rasch. Ich machte gute Fortschritte und erledigte meine Hausaufgaben bereits in einer Gruppe. Die Aufgaben löste ich ohne Schwierigkeiten. Da ich frühzeitig fertig war, überarbeitete ich meine aktuelle Lernreflexion und konnte anderen bei ihren Aufgaben behilflich sein.
+
+
+
+
+
+## Arbeitsjournal 15.12.2023
+
+# Was habe ich heute gelernt:
+An diesem Nachmittag habe ich ein Backup-Konzept für einen Computer und ein Smartphone erstellt. Dabei habe ich die Funktionen der jeweiligen Geräte sowie die potenziell betroffenen Daten erwähnt. Des Weiteren habe ich erläutert, wie man ein Backup erstellt und dieses anschliessend wiederherstellt.
+
+# Erfolge/Misserfolge:
+---
+
+
+
+
+## Arbeitsjournal 22.02.2022
+
+# Was habe ich heute gelernt:
 Heute haben wir zu Beginn eine Mindmap über Passwörter erstellt, in der wir die schwächsten und häufigsten Passwörter identifiziert haben. Zudem haben wir besprochen, wie man ein sicheres Passwort generieren kann. Anschließend haben wir uns mit dem Password Manager vertraut gemacht und seine Funktionen näher betrachtet.
 
 ![password-manager](image.png)
@@ -69,3 +89,21 @@ Beim Online-Banking gibst du dein Passwort ein, bestätigst einen Code auf dein 
 
 Insgesamt war der heutige Lernprozess sehr praxisorientiert, da wir nicht nur theoretisches Wissen über Passwortsicherheit erworben haben, sondern auch konkrete Schritte zur Umsetzung in Form der Einrichtung eines Password Managers durchgeführt haben. Zudem haben wir die verschiedenen Sicherheitsbegriffe intensiv diskutiert und mit eigenen Worten erläutert, was mein Verständnis für diese Konzepte vertieft hat.
 
+
+
+
+## Arbeitsjournal 12.01.2024
+# Was habe ich gelernt?
+---
+# Erfolge/Misserfolge:
+---
+
+
+
+
+## Arbeitsjournal 19.01.2024
+
+# Was habe ich gelernt?
+---
+# Erfolge/Misserfolge:
+---
