@@ -93,10 +93,13 @@ Insgesamt war der heutige Lernprozess sehr praxisorientiert, da wir nicht nur th
 
 
 ## Arbeitsjournal 12.01.2024
+
 # Was habe ich gelernt?
----
+Ich habe mehr über das FIDO-Anmeldeverfahren ohne Passwörter gelernt und allgemein vieles zu Passwörter.
+
+
 # Erfolge/Misserfolge:
----
+Heute hatte ich keine Schwierigkeiten, die Aufgabe 7a zu lösen. Ich bearbeitete diese Aufgabe gemeinsam mit einem Freund und verglich sie mit anderen.
 
 
 
