@@ -1,6 +1,6 @@
-## Arbeitsjournal – 17.11.2023
+# Arbeitsjournal – 17.11.2023
 
-# Was habe ich heute gelernt?
+## Was habe ich heute gelernt?
 Unterschied zwischen Datenschutz und Datensicherheit:
 Datenschutz zielt darauf ab, die Privatsphäre von Individuen zu wahren, indem sichergestellt wird, dass deren persönliche Daten nicht unerlaubt abgerufen werden. Auf der anderen Seite fokussiert sich Datensicherheit darauf, sicherzustellen, dass Daten vor unbefugtem Zugriff geschützt sind.
 
