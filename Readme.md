@@ -135,10 +135,6 @@ Heute hatte ich keine Schwierigkeiten, die Aufgabe 7a zu lösen. Ich bearbeitete
 ##  Erfolge/Misserfolge:
 Am Freitagnachmittag habe ich die Aufgaben 8a und 8b erfolgreich bearbeitet. Obwohl ich keine Schwierigkeiten hatte, gestaltete sich die Arbeit etwas mühsam, da ich mit Kopfschmerzen zu kämpfen hatte. Zusätzlich haben wir die Prüfung LB2 geschrieben, die ebenfalls gut verlief. Nach Abschluss der Aufgaben setzte ich meine Lernreflexion fort.
 
-# Zusammenfassung
-
-
-[Zusamenfassung](Zusamenfassung.md)
 
 # Arbeitsjournal 02.02.2024
 
@@ -147,3 +143,9 @@ Heute habe ich mein Lernjournal und meine Zusammenfassung der Dokumentation erfo
 
 ##  Erfolge/Misserfolge:
 Mir geling es meine README.md-Datei fertig zu machen. 
+
+
+# Zusammenfassung
+
+
+[Zusamenfassung](Zusamenfassung.md)
