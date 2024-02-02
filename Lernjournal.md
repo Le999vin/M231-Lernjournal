@@ -1,4 +1,4 @@
-# Arbeitsjournal – 17.11.2023
+# Arbeitsjournalrbeitsjournalrbeitsjournal – 17.11.2023
 
 ## Was habe ich heute gelernt?
 Unterschied zwischen Datenschutz und Datensicherheit:
@@ -10,43 +10,43 @@ Am heutigen Tag erfolgte der Einstieg in das neue Modul 231. Ich stiess auf dive
 
     
 
-## Arbeitsjournal – 24.11.2023
+# Arbeitsjournalrbeitsjournalrbeitsjournal – 24.11.2023
 
-# Was habe ich heute gelernt?
+## Was habe ich heute gelernt?
 An diesem Freitag schauten wir uns Gitlab an und wie man Datein in Gitlab überträgt. Dabei schauten wir uns auch Branchis in Git an. 
 
-# Erfolge/Misserfolge:
+## Erfolge/Misserfolge:
 Heute habe ich gute Fortschritte gemacht, indem ich mich auf die Erledigung der Aufgaben der Hausaufgaben 2a konzentriert habe. Dabei habe ich gelernt, wie man Daten im CMD zu GitLab überträgt, was Branches sind und wie man Bilder sowie Verlinkungen in GitLab erstellt.
 
 
 
 
-## Arbeitsjournal - 08.12.2023
+# Arbeitsjournalrbeitsjournalrbeitsjournal - 08.12.2023
 
-# Was habe ich heute gelernt:
+## Was habe ich heute gelernt:
 Heute erhielt ich einen Einblick in das Datenschutzgesetz und die darin enthaltenen Regelungen.
 
-# Erfolge/Misserfolge:
+## Erfolge/Misserfolge:
 Der heutige Nachmittag verging rasch. Ich machte gute Fortschritte und erledigte meine Hausaufgaben bereits in einer Gruppe. Die Aufgaben löste ich ohne Schwierigkeiten. Da ich frühzeitig fertig war, überarbeitete ich meine aktuelle Lernreflexion und konnte anderen bei ihren Aufgaben behilflich sein.
 
 
 
 
 
-## Arbeitsjournal 15.12.2023
+# Arbeitsjournal 15.12.2023
 
-# Was habe ich heute gelernt:
+## Was habe ich heute gelernt:
 An diesem Nachmittag habe ich ein Backup-Konzept für einen Computer und ein Smartphone erstellt. Dabei habe ich die Funktionen der jeweiligen Geräte sowie die potenziell betroffenen Daten erwähnt. Des Weiteren habe ich erläutert, wie man ein Backup erstellt und dieses anschliessend wiederherstellt.
 
-# Erfolge/Misserfolge:
+## Erfolge/Misserfolge:
 ---
 
 
 
 
-## Arbeitsjournal 22.02.2022
+# Arbeitsjournal 22.02.2022
 
-# Was habe ich heute gelernt:
+## Was habe ich heute gelernt:
 Heute haben wir zu Beginn eine Mindmap über Passwörter erstellt, in der wir die schwächsten und häufigsten Passwörter identifiziert haben. Zudem haben wir besprochen, wie man ein sicheres Passwort generieren kann. Anschließend haben wir uns mit dem Password Manager vertraut gemacht und seine Funktionen näher betrachtet.
 
 ![password-manager](image.png)
@@ -92,9 +92,10 @@ Insgesamt war der heutige Lernprozess sehr praxisorientiert, da wir nicht nur th
 
 
 
-## Arbeitsjournal 12.01.2024
+# Arbeitsjournal 12.01.2024
 
-# Was habe ich gelernt?
+##  Was habe ich gelernt?
+
 Ich habe mehr über das FIDO-Anmeldeverfahren ohne Passwörter gelernt und allgemein vieles zu Passwörter.
 
 
@@ -104,7 +105,7 @@ Heute hatte ich keine Schwierigkeiten, die Aufgabe 7a zu lösen. Ich bearbeitete
 
 
 
-## Arbeitsjournal 19.01.2024
+# Arbeitsjournalrbeitsjournalrbeitsjournalrbeitsjournal 19.01.2024
 
 # Was habe ich gelernt?
 ---
