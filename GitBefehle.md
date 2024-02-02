@@ -1,4 +1,4 @@
-## Lerjournal auf git pushen
+## Lernjournal auf git pushen
 Wichtige Git Befehle:
 git add *
 git commit -m “”

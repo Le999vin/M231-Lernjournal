@@ -127,8 +127,23 @@ Heute schauten wir uns das Thema FIDO-Anmeldeverfahren ohne Passwörter. Dabei l
 ##  Erfolge/Misserfolge:
 Heute hatte ich keine Schwierigkeiten, die Aufgabe 7a zu lösen. Ich bearbeitete diese Aufgabe gemeinsam mit einem Freund und verglich sie mit anderen. 
 
+# Arbeitsjournal 26.01.2024
+
+##  Was habe ich gelernt?
+---
+
+##  Erfolge/Misserfolge:
+Am Freitagnachmittag habe ich die Aufgaben 8a und 8b erfolgreich bearbeitet. Obwohl ich keine Schwierigkeiten hatte, gestaltete sich die Arbeit etwas mühsam, da ich mit Kopfschmerzen zu kämpfen hatte. Zusätzlich haben wir die Prüfung LB2 geschrieben, die ebenfalls gut verlief. Nach Abschluss der Aufgaben setzte ich meine Lernreflexion fort.
 
 # Zusammenfassung
 
 
 [Zusamenfassung](Zusamenfassung.md)
+
+# Arbeitsjournal 02.02.2024
+
+## Was habe ich gelernt?
+Heute habe ich mein Lernjournal und meine Zusammenfassung der Dokumentation erfolgreich abgeschlossen. Dabei habe ich gelernt, wie ich das Layout meiner README.md-Datei ansprechender gestalten kann.
+
+##  Erfolge/Misserfolge:
+Mir geling es meine README.md-Datei fertig zu machen. 
