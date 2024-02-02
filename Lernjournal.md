@@ -1,16 +1,16 @@
-# Arbeitsjournalrbeitsjournalrbeitsjournal – 17.11.2023
+# Arbeitsjournal – 17.11.2023
 
 ## Was habe ich heute gelernt?
 Unterschied zwischen Datenschutz und Datensicherheit:
 Datenschutz zielt darauf ab, die Privatsphäre von Individuen zu wahren, indem sichergestellt wird, dass deren persönliche Daten nicht unerlaubt abgerufen werden. Auf der anderen Seite fokussiert sich Datensicherheit darauf, sicherzustellen, dass Daten vor unbefugtem Zugriff geschützt sind.
 
-# Erfolge/Misserfolge:
+## Erfolge/Misserfolge:
 Am heutigen Tag erfolgte der Einstieg in das neue Modul 231. Ich stiess auf diverse Herausforderungen, da mir noch nicht klar war, wie man Gitlab nutzt und Daten über die Befehlszeile (CMD) hochlädt. Dennoch gelang es mir, meinen Gitlab-Account einzurichten und die relevanten neuen Befehle in Git zu erlernen.
 
 
     
 
-# Arbeitsjournalrbeitsjournalrbeitsjournal – 24.11.2023
+# Arbeitsjournal – 24.11.2023
 
 ## Was habe ich heute gelernt?
 An diesem Freitag schauten wir uns Gitlab an und wie man Datein in Gitlab überträgt. Dabei schauten wir uns auch Branchis in Git an. 
@@ -21,12 +21,12 @@ Heute habe ich gute Fortschritte gemacht, indem ich mich auf die Erledigung der 
 
 
 
-# Arbeitsjournalrbeitsjournalrbeitsjournal - 08.12.2023
+# Arbeitsjournal - 08.12.2023
 
 ## Was habe ich heute gelernt:
 Heute erhielt ich einen Einblick in das Datenschutzgesetz und die darin enthaltenen Regelungen.
 
-## Erfolge/Misserfolge:
+### Erfolge/Misserfolge:
 Der heutige Nachmittag verging rasch. Ich machte gute Fortschritte und erledigte meine Hausaufgaben bereits in einer Gruppe. Die Aufgaben löste ich ohne Schwierigkeiten. Da ich frühzeitig fertig war, überarbeitete ich meine aktuelle Lernreflexion und konnte anderen bei ihren Aufgaben behilflich sein.
 
 
@@ -39,8 +39,7 @@ Der heutige Nachmittag verging rasch. Ich machte gute Fortschritte und erledigte
 An diesem Nachmittag habe ich ein Backup-Konzept für einen Computer und ein Smartphone erstellt. Dabei habe ich die Funktionen der jeweiligen Geräte sowie die potenziell betroffenen Daten erwähnt. Des Weiteren habe ich erläutert, wie man ein Backup erstellt und dieses anschliessend wiederherstellt.
 
 ## Erfolge/Misserfolge:
----
-
+Ich hatte vor, eine Tabelle zu erstellen, die den Backup-Prozess für Handys und Computer anschaulich darstellt. Allerdings gestaltete sich die Umsetzung meiner Aufgaben als herausfordernd, da ich noch nicht vollständig mit meinen Hausaufgaben fertig geworden war. Dennoch gelang es mir bereits, einen Überblick über die verschiedenen Tools für Backup-Speicherungen zu erhalten.
 
 
 
@@ -96,18 +95,19 @@ Insgesamt war der heutige Lernprozess sehr praxisorientiert, da wir nicht nur th
 
 ##  Was habe ich gelernt?
 
-Ich habe mehr über das FIDO-Anmeldeverfahren ohne Passwörter gelernt und allgemein vieles zu Passwörter.
+Ich habe eine Zusammenfassung zu den Themen Authentisierung, Authentifizierung und Autorisierung verfasst. Dabei stiess ich auf einige Schwierigkeiten, aber mit Hilfe des Internets konnte ich diese überwinden.
 
 
-# Erfolge/Misserfolge:
+##  Erfolge/Misserfolge:
 Heute hatte ich keine Schwierigkeiten, die Aufgabe 7a zu lösen. Ich bearbeitete diese Aufgabe gemeinsam mit einem Freund und verglich sie mit anderen.
 
 
 
 
-# Arbeitsjournalrbeitsjournalrbeitsjournalrbeitsjournal 19.01.2024
+# Arbeitsjournal 19.01.2024
 
-# Was habe ich gelernt?
----
-# Erfolge/Misserfolge:
----
+##  Was habe ich gelernt?
+Heute schauten wir uns das Thema FIDO-Anmeldeverfahren ohne Passwörter. Dabei lernte ich warum Passwörter unsicher sind und wie man ein passwortloses Anmeldeverfahren macht.
+
+##  Erfolge/Misserfolge:
+Heute hatte ich keine Schwierigkeiten, die Aufgabe 7a zu lösen. Ich bearbeitete diese Aufgabe gemeinsam mit einem Freund und verglich sie mit anderen. 
